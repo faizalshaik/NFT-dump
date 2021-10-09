@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ipfix.h": "c",
+        "netflow_v1.h": "c"
+    }
+}
